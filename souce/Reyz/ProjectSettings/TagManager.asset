@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TimeManager
+  - SceneManager
+  - Console
+  - MapCamera
+  - Fire
+  - SaveLoad
+  - DefaultEndMenu
+  - SecondaryEndMenu
+  - SaveConfirmation
+  - Timer
+  - Coin
+  - Floor
+  - SceneController
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Demon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Map
+    uniqueID: 142755411
+    locked: 0

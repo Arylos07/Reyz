@@ -1,0 +1,9 @@
+***The controls for Reyz are as follows***
+
+WASD movement with mouse look.
+Spacebar to jump.
+P to pause the game.
+M for level map.
+F1 for developer's console.
+
+It is important to read this note as there is no reminder in-game as to what the controls are at this time.
